@@ -1,0 +1,14 @@
+{
+    "name": "adam1109/hello_world",
+    "description": "my first composer",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "adam1109",
+            "email": "wuxiao19821028@163.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
